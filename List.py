@@ -1,5 +1,4 @@
 import numpy as np
-# yeet
 class DistributionType:
     """
     Represents a probability distributioin for generating random samples.

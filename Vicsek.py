@@ -447,6 +447,3 @@ def main():
 if __name__ == '__main__':
     matplotlib.use("TkAgg")
     main()
-
-def steven():
-    print("This YEETis aasdasdasdasd placeholder function for testing purposes.")
